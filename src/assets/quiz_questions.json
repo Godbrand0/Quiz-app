@@ -1,0 +1,152 @@
+[
+    {
+        "question": "What is the capital of France?",
+        "choices": [
+            "Paris",
+            "Rome",
+            "Madrid",
+            "Berlin"
+        ],
+        "answer": "Paris"
+    },
+    {
+        "question": "What is 2 + 2?",
+        "choices": [
+            "3",
+            "4",
+            "5",
+            "6"
+        ],
+        "answer": "4"
+    },
+    {
+        "question": "Which planet is known as the Red Planet?",
+        "choices": [
+            "Earth",
+            "Mars",
+            "Jupiter",
+            "Saturn"
+        ],
+        "answer": "Mars"
+    },
+    {
+        "question": "What is the largest mammal?",
+        "choices": [
+            "Elephant",
+            "Blue Whale",
+            "Giraffe",
+            "Rhino"
+        ],
+        "answer": "Blue Whale"
+    },
+    {
+        "question": "Who wrote 'Hamlet'?",
+        "choices": [
+            "Charles Dickens",
+            "William Shakespeare",
+            "J.K. Rowling",
+            "George Orwell"
+        ],
+        "answer": "William Shakespeare"
+    },
+    {
+        "question": "Which element has the chemical symbol 'O'?",
+        "choices": [
+            "Gold",
+            "Oxygen",
+            "Iron",
+            "Hydrogen"
+        ],
+        "answer": "Oxygen"
+    },
+    {
+        "question": "How many continents are there?",
+        "choices": [
+            "5",
+            "6",
+            "7",
+            "8"
+        ],
+        "answer": "7"
+    },
+    {
+        "question": "What color do you get when you mix red and white?",
+        "choices": [
+            "Pink",
+            "Purple",
+            "Orange",
+            "Brown"
+        ],
+        "answer": "Pink"
+    },
+    {
+        "question": "What is the boiling point of water at sea level?",
+        "choices": [
+            "90\u00b0C",
+            "95\u00b0C",
+            "100\u00b0C",
+            "110\u00b0C"
+        ],
+        "answer": "100\u00b0C"
+    },
+    {
+        "question": "Which ocean is the largest?",
+        "choices": [
+            "Atlantic",
+            "Indian",
+            "Pacific",
+            "Arctic"
+        ],
+        "answer": "Pacific"
+    },
+    {
+        "question": "What is the square root of 64?",
+        "choices": [
+            "6",
+            "7",
+            "8",
+            "9"
+        ],
+        "answer": "8"
+    },
+    {
+        "question": "What gas do plants absorb from the atmosphere?",
+        "choices": [
+            "Oxygen",
+            "Carbon Dioxide",
+            "Nitrogen",
+            "Hydrogen"
+        ],
+        "answer": "Carbon Dioxide"
+    },
+    {
+        "question": "Who painted the Mona Lisa?",
+        "choices": [
+            "Pablo Picasso",
+            "Leonardo da Vinci",
+            "Michelangelo",
+            "Vincent van Gogh"
+        ],
+        "answer": "Leonardo da Vinci"
+    },
+    {
+        "question": "Which language is primarily spoken in Brazil?",
+        "choices": [
+            "Spanish",
+            "Portuguese",
+            "French",
+            "English"
+        ],
+        "answer": "Portuguese"
+    },
+    {
+        "question": "What is the chemical formula of water?",
+        "choices": [
+            "H2O",
+            "CO2",
+            "NaCl",
+            "O2"
+        ],
+        "answer": "H2O"
+    }
+]
