@@ -11,7 +11,7 @@ export default function App() {
   const [isAnswerCorrect, setIsAnswerCorrect] = useState(null);
 
   useEffect(() => {
-    fetch("/src/assets/quiz_questions.json")
+    fetch("https://api.jsonbin.io/v3/b/682b2a8f8960c979a59cdbef")
       .then((res) => res.json())
       .then((data) => setQuestions(data))
       .catch((err) => console.error("failed", err));
