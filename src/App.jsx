@@ -13,7 +13,7 @@ export default function App() {
   useEffect(() => {
     fetch("https://api.jsonbin.io/v3/b/682b2a8f8960c979a59cdbef")
       .then((res) => res.json())
-      .then((data) => setQuestions(data))
+      .then((data) => setQuestions(data.record))
       .catch((err) => console.error("failed", err));
   }, []);
   const handleAnswer = (selected) => {
